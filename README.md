@@ -1,7 +1,7 @@
 # 介紹
 這是一個根據[Echoshard的專案](https://github.com/Echoshard/Gemini_Discordbot)改造的gemini chat bot
 
-*此專案已停止更新/維修,新版程式請至[新專案](https://github.com/imyimang/discord-gemini-chat-bot)*
+## *此專案已停止更新/維修,新版程式請至[新專案](https://github.com/imyimang/discord-gemini-chat-bot)*
 ## 指令
 
 ### 以下指令都只能在dm channel使用
